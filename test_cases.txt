@@ -1,0 +1,7 @@
+Test Case 1:
+Input: Orders data
+Expected Output: Total revenue
+
+Test Case 2:
+Input: Customer data
+Expected Output: Top customers list
